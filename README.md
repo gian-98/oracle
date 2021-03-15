@@ -2,7 +2,7 @@
 
 AIRBNB
 
-  -> Directorio assets: se encuentran los scripts de las vistas, sinónimos entre otros del modelo Airbnb. 
+  -> Directorio assets: se encuentran los scripts de las vistas, sinónimos entre otros objetos del modelo Airbnb. 
   
   -> Directorio data: se encuentran los scripts de los insert a las diferentes tablas del modelo Airbnb.
   
